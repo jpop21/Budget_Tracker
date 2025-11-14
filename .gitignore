@@ -18,3 +18,5 @@ obj/
 
 appsettings.*.json
 
+BudgetTracker/BudgetTracker/appsettings.json
+BudgetTracker/BudgetTracker/appsettings.Development.json
